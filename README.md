@@ -1,6 +1,6 @@
 # operon.io-core
 
-http://operon.io
+https://operon.io
 
 Operon is the state of the art JSON data query, transformation and integration language.
 
